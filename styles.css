@@ -214,9 +214,9 @@ body {
   
     .info {
       display: flex;
-      gap: 14px;
+      gap: 15px;
       font-size: small;
-      margin-left: 10px;
+    
      
     }
   
