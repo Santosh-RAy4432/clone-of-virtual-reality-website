@@ -206,14 +206,17 @@ body {
   
     .details {
       display: flex;
-      gap: 40px;
-      font-size: small;
+      gap: 60px;
+      font-size: 10px;
+    margin-left: 15px;
+
     }
   
     .info {
       display: flex;
       gap: 20px;
       font-size: small;
+     
     }
   
     .content-img {
